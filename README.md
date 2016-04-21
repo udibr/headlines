@@ -15,7 +15,7 @@ The texts should be already tokenized and the tokens separated by spaces.
 
 The [vocabulary-embedding](./vocabulary-embedding.ipynb)
 notebook describes how a dictionary is built for the tokens and how
-an initial embedding matrix is built from [GloVe][http://nlp.stanford.edu/projects/glove/]
+an initial embedding matrix is built from [GloVe](http://nlp.stanford.edu/projects/glove/)
 
 [train](./train.ipynb) notebook describes how a model is trained on the data using [Keras](http://keras.io/)
 
