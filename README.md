@@ -28,6 +28,7 @@ the training vocabulary to be copied from the description to the generated headl
 ## Examples of headlines generated
 Good (cherry picking) examples of headlines generated
 ![cherry picking of generated headlines](./cherry_picking.png)
+![cherry picking of generated headlines](./cherry_picking1.png)
 
 ## Examples of attention weights
 ![attention weights](./attention_weights.png)
