@@ -8,6 +8,7 @@ This project attempts to reproduce the results in the paper:
 
 ## How to run
 ### Software
+* The code is running with [jupyter notebook](http://jupyter.org/)
 * Install [Keras](http://keras.io/)
 * `pip install python-Levenshtein`
 
