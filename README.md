@@ -23,7 +23,7 @@ The texts should be already tokenized and the tokens separated by spaces.
 Once you have the data ready save it in a python pickle file as a tuple:
 `(heads, descs, keywords)` were `heads` is a list of all the head strings,
 `descs` is a list of all the article strings in the same order and length as `heads`.
-I ignore the `keywrods` information so you can place `None`.
+I ignore the `keywords` information so you can place `None`.
 
 ### Build a vocabulary of words
 The [vocabulary-embedding](./vocabulary-embedding.ipynb)
